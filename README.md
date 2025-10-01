@@ -1,4 +1,3 @@
-# Climate-Change-Modeling
 # Climate Change Modeling Project
 
 Welcome to the Climate Change Modeling repository! This project analyzes historical temperature data to uncover trends, forecast future temperatures, and detect anomalies using time series models like ARIMA and LSTM. As a data scientist with a passion for environmental insights, I built this to explore how our planet's temperatures have evolved and what might lie ahead. It's a mix of exploratory analysis, feature engineering, and predictive modeling—all wrapped in a Jupyter notebook for easy replication.
